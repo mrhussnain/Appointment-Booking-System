@@ -1,0 +1,23 @@
+# Environment and Configuration Files
+includes/config.php
+.env
+
+# Dependencies
+vendor/
+node_modules/
+composer.phar
+
+# Log Files
+*.log
+error_log
+logs/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Any backup files or temporary files
+*.bak
+*~
+*.swp
+*.tmp
